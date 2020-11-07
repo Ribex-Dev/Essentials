@@ -5,4 +5,10 @@ main: de.ribex.essentials.Main
 commands:
   heal:
     permission: heal.use
-    permission-message: '§cDu hast keine Benachrichtigung!'
+    permission-message: '§cDu hast keine Berechtigung!'
+  adminitems:
+    permission: adminitems.use
+    permission-message: '§cDu hast keine Berechtigung!'
+  fly:
+    permission: fly.use
+    permission-message: '§cDu hast keine Berechtigung!'
